@@ -13,7 +13,7 @@ This project demonstrates how to create a sample NFT generator on the Ethereum b
 To get started with this project, follow these steps:
 
 1. **Copy the Code**:
-    Simply copy the code and paste it on Remix. This project requires Remix IDE for contract development and testing. No additional dependencies are needed for the smart contract itself.
+    Simply copy the [code](https://github.com/SSSerpenttt/ETH-AVAX-Intermediate---Module-1-Project/blob/main/NFTGenerator.sol) and paste it on Remix. This project requires Remix IDE for contract development and testing. No additional dependencies are needed for the smart contract itself.
 
 2. **Open Remix**:
     Go to [Remix IDE](https://remix.ethereum.org/) and open the cloned repository files.
@@ -53,4 +53,4 @@ Franz Gabriel Eleccion
 
 ## License
 
-This project is licensed under the <b>MIT License</b> - see the LICENSE.md file for details
+This project is licensed under the <b>MIT License</b> - see the [LICENSE.md](https://github.com/SSSerpenttt/ETH-AVAX-Intermediate---Module-1-Project/blob/main/LICENSE) file for details
